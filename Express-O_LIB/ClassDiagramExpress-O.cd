@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Express_O_LIB.Kategori">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMBIAAAAQAAAAEAAAQAAAAQAAAAAAAA=</HashCode>
+      <FileName>Kategori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Express_O_LIB.DetilNotaJual">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQgAAAGIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>DetilNotaJual.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Menu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Express_O_LIB.Resep">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAEAAAAAAAA=</HashCode>
+      <FileName>Resep.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bahan" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Express_O_LIB.Bahan">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAIAAAAQAhAAEAIQQEAAAQFAAAAAAA=</HashCode>
+      <FileName>Bahan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Express_O_LIB.DetilNotaBeli">
+    <Position X="1.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQgAAAEIAQAAAAEAAAAAAAA=</HashCode>
+      <FileName>DetilNotaBeli.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bahan" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Express_O_LIB.NotaJual">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAACAQABAIAAAAAAAgAAEAIIAAkACAQIAAgAAAE=</HashCode>
+      <FileName>NotaJual.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Member" />
+      <Property Name="Karyawan" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="ListOfDetilNotaJual" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Express_O_LIB.Karyawan">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAIRgAAMAIAQAASAEAAcAAAQKCAAQDAgBAAQA=</HashCode>
+      <FileName>Karyawan.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Jabatan" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Express_O_LIB.Jabatan">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAMAIAAAAQAAAAEAAAQAAAAQAAAAAAAA=</HashCode>
+      <FileName>Jabatan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Express_O_LIB.NotaBeli">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <AssociationLine Name="ListDetilNotaBeli" Type="Express_O_LIB.DetilNotaBeli">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.606" Y="0.528" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAIAIAACAAABCIAAAACAAgAAAAIAAAgAAAQIAAgAAAA=</HashCode>
+      <FileName>NotaBeli.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Supplier" />
+      <Property Name="Karyawan" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="ListDetilNotaBeli" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Express_O_LIB.Supplier">
+    <Position X="3.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACCMAIAAgAQAAAAEAAAQIAAAQCAAAAAAA=</HashCode>
+      <FileName>Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Express_O_LIB.Member">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAACMAIAAgAQAAAAEAAAQIAAAQCAAAAAEA=</HashCode>
+      <FileName>Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Express_O_LIB.Menus">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="ListOfResep" Type="Express_O_LIB.Resep">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-0.028" Y="0.032" Height="0.182" Width="0.969" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQAAAAAOAIAAAgwAgAAMCIAQAAgAQAAAABAAA=</HashCode>
+      <FileName>Menus.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Kategori" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="ListOfResep" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

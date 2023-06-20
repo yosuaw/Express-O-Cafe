@@ -1,0 +1,88 @@
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\obj\Debug\Express-o_LIB.csprojAssemblyReference.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\obj\Debug\Express-o_LIB.csproj.CoreCompileInputs.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\bin\Debug\Express-o_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\bin\Debug\Express-o_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\bin\Debug\MySql.Data.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\obj\Debug\Express-o_LIB.csproj.CopyComplete
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\obj\Debug\Express-o_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o_LIB\Express-o_LIB\obj\Debug\Express-o_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\bin\Debug\Express-o_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\bin\Debug\Express-o_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\bin\Debug\MySql.Data.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\obj\Debug\Express-o_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-o\Express-o_LIB\obj\Debug\Express-o_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\bin\Debug\Express-o_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\bin\Debug\Express-o_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\bin\Debug\MySql.Data.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-o_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-o_LIB.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\bin\Debug\MySql.Data.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O_LIB\obj\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O_LIB\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.csproj.CopyComplete
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O_LIB\obj\Debug\Express-O_LIB.pdb

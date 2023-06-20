@@ -1,0 +1,674 @@
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormRegister.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+E:\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+E:\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+E:\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+E:\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.dll
+E:\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+E:\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.pdb
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormRegister.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+E:\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.dll
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\bin\Debug\Express-o_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormRegister.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UTS PBD\Terbaru\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormRegister.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormRegister.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UTS\pbd_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormRegister.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\UBAYA\Materi Semester 3\Pemrograman Basis Data\UAS\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormRegister.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Downloads\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\bin\Debug\MySql.Data.dll
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\Express-O Cafe(2)\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLaporan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(4)\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLaporan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLaporan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+D:\Kuliah\Semester 3\Pemrograman Basis data\UAS\Express-O Cafe(5)\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLaporan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\PBD\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe.config
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express_O_Cafe.pdb
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.dll
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\MySql.Data.dll
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\bin\Debug\Express-O_LIB.pdb
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarBahan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarJabatan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKaryawan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarKategori.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMember.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarMenu.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaBeli.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarNotaJual.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormDaftarSupplier.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusBahan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusJabatan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKaryawan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusKategori.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMember.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusMenu.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormHapusSupplier.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLaporan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormLogin.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMain.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormMenu.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahBahan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahJabatan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKaryawan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahKategori.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaJual.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahResep.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMember.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahMenu.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahSupplier.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahBahan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahJabatan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKaryawan.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahKategori.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMember.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahMenu.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormUbahSupplier.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.Properties.Resources.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.FormTambahNotaBeli.resources
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express-O Cafe.csproj.CopyComplete
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.exe
+C:\Users\Laptop\Desktop\pbdUAS_34_Express-OCafe\Express-O Cafe\Express-O Cafe\obj\Debug\Express_O_Cafe.pdb
